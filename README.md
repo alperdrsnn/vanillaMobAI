@@ -2,8 +2,10 @@
 
 Vanilla Bedrock–style mob AI for PocketMine-MP.
 
-![Version](https://img.shields.io/badge/version-1.2.1-blue)
+![Version](https://img.shields.io/badge/version-1.3.0-blue)
 ![PocketMine-MP](https://img.shields.io/badge/PocketMine--MP-5.0%2B-orange)
+[![](https://poggit.pmmp.io/shield.state/VanillaMobAI)](https://poggit.pmmp.io/p/VanillaMobAI)
+<a href="https://poggit.pmmp.io/p/VanillaMobAI"><img src="https://poggit.pmmp.io/shield.state/VanillaMobAI"></a>
 
 ---
 
@@ -22,6 +24,7 @@ The plugin is **stable and ready for production use** on PocketMine-MP servers. 
 - Creative players are not targeted by hostiles
 - Natural spawning (caps, light, distance, world filters)
 - Spawn eggs + monster spawner support (set spawner type with an egg)
+- Horses: taming, saddle, armor, riding, breeding
 - Breeding, milking, shearing, dyeing, chicken eggs
 - Performance: activation range, tick budget, async pathfinding
 
@@ -31,7 +34,7 @@ The plugin is **stable and ready for production use** on PocketMine-MP servers. 
 
 | Mob | Type |
 |-----|------|
-| Cow, Pig, Sheep, Chicken | Passive |
+| Cow, Pig, Sheep, Chicken, Horse | Passive |
 | Zombie, Skeleton, Spider, Creeper | Hostile |
 
 ---
